@@ -1,4 +1,8 @@
 _repo: Notes-on-Bookbinding-for-Libraries_47456
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47456-h/images/cover.jpg
 creator:
   author:
     agent_name: Dana, John Cotton
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5999
     wikipedia: http://en.wikipedia.org/wiki/John_Cotton_Dana
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47456#Notes-on-Bookbinding-for-Libraries
 gutenberg_issued: '2014-11-25'
 gutenberg_type: Text
 identifiers:
